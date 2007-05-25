@@ -1,0 +1,5 @@
+inherit distutils
+
+DESCRIPTION="Python FriBiDi bindings"
+HOMEPAGE="http://hspell-gui.sourceforge.net/pyfribidi.html"
+SRC_URI="mirror://sourceforge/hspell-gui/${ORIG_PN}-${PV}.tar.gz"
