@@ -1,4 +1,4 @@
 category: Python
-requires: cygwin python libfribidi0
+requires: python libfribidi0
 sdesc: "Python bindings for fribidi"
 ldesc: "Python bindings for fribidi"
